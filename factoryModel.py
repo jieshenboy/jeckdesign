@@ -55,6 +55,7 @@ def main() -> None:
     """ run  main"""
     xml_factory = connect_to('data/person.xml')
     xml_data = xml_factory.parsed_data
+    # find liar's firstName、price、iphone number
     liars = xml_data.findall(
         ".//{}[{}='{}']".format('person', 'lastName', 'Liar'))
     print('found: {} persons'.format(len(liars)))
@@ -65,6 +66,7 @@ def main() -> None:
          for p in liar.find('phoneNumbers')]
     print("\n")
 
+    # fund the donut's name, price, tooping
     json_factory = connect_to('data/donut.json')
     json_data = json_factory.parsed_data
     print('found: {} donuts'.format(len(json_data)))
