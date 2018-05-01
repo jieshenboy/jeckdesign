@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
 """
 This doc is for to learnning th abstrack_factory, by this way ,you can using a model to deal with the differents work
 if these work have a same stream.

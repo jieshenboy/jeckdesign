@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
 """
 this is a build model's doc, for example is a building a computer.
 """
@@ -9,6 +8,7 @@ this is a build model's doc, for example is a building a computer.
 
 class Computer:
     """__init__ computer"""
+
     def __init__(self, serial_number):
         self.serial = serial_number
         self.memory = None
@@ -25,6 +25,7 @@ class Computer:
 
 class ComputerBuilder:
     """__init__ Builder"""
+
     def __init__(self):
         self.computer = Computer('AG23385193')
 
@@ -39,6 +40,7 @@ class ComputerBuilder:
 
 
 class HardwareEngineer:
+
     def __init__(self):
         self.builder = None
 
