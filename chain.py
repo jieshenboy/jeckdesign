@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-chain patter
+chain pattern
 
 if you can't, make it to your father.
 """

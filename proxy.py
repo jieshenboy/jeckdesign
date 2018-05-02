@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-proxy patter
+proxy pattern
 """
 
 

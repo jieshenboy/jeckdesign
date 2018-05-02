@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-command patter
+command pattern
 
 make things in black box, using a command can deal with the troubles.
 """

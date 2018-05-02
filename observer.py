@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-observer
+observer pattern
 
 A butterfly's fly can make a  hurricane in far way.
 """

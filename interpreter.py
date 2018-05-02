@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-interpreter
+interpreter pattern
 
 can using a specific language grammar to using codes.
 """
