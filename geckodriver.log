@@ -1,0 +1,920 @@
+1525243319648	geckodriver	INFO	geckodriver 0.20.0
+1525243319675	geckodriver	INFO	Listening on 127.0.0.1:50756
+1525243322818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.wW2Yah6jNHWH"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525243329921	Marionette	INFO	Listening on port 50791
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525243331559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+[Parent 12152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.JavaScript error: httpsJavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1:JavaScript warning: httJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cee2.iteye.com/acbocfo?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjrnnjp&dqw=k&dul=l&sv=jgj&glv=j&hasv=kkkjjl&slv=KkgKk&sdu=kompgrln&gul=j&gwp=0C54J87BC&gf=m&svv=koksgllpp&surw=l&wsu=kololnmnlskrj&gdl=o&sfv=koksgqoj&fhf=DCyKr&p2=ekxq&87=gyxrn&21=8ctbj&swt=1, line 58: TypeError: window.getComputedStyle(...) is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmJavaScript error: httpsJavaScript wJavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https:/JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/commoJavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError:JavaScript eJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/jsJavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jJavaScript JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: UsJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, liJavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jqJavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, liJavaScript error: https://cpJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, liJavaScript error: https://cpJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, liJavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Parent 9820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://csdnimg.cn/public/common/toolbar/js/content_toolbar.js, line 516: ReferenceError: BaiduSuggestion is not defined
+[Parent 9820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rror: 109: file z:/build/build/s
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525243681906	geckodriver::marionette	ERROR	Failed to stop browser process
+R Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525243679885	Marionette	INFO	Listening on port 53278
+1525243680755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+[Parent 2096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 77[Parent 2096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525244954868	geckodriver	INFO	geckodriver 0.20.0
+1525244954889	geckodriver	INFO	Listening on 127.0.0.1:54249
+1525244957952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.y0DxjF51oyK9"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525244967090	Marionette	INFO	Listening on port 54281
+1525244968012	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 13812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5060, Chrome_ChildThread] [*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5540, Chrome_ChildThread] WARNING: pipe error: 109: fil[Parent 16992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525245062904	geckodriver	INFO	geckodriver 0.20.0
+1525245062921	geckodriver	INFO	Listening on 127.0.0.1:54448
+1525245065963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.e1525245066136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.XEmpQf7zKNZ4"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+0.0.1:54500
+1525245124056	geckodriver	INFO	geckodriver 0.20.0
+1525245124069	geckodriver	INFO	Listening on 127.0.0.1:54638
+1525245127102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.8yQoCxHuDAQS"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525245135712	Marionette	INFO	Listening on port 54672
+1525245136848	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0016,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7C0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D001F,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x280016,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot 
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15007F,name=PBrowser::Msg_Destroy) Channel error: cannot s
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Channel error: can
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 85: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0016,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7C0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D001F,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x280016,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C002B,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x410010,name=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C000C,name=PContent::Msg_ReinitRendering) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C000C,name=PContent::Msg_ReinitRendering) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15264, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 15264, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15264, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+G: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+e z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 16760, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 16760, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+Z_CRASHREPORTER_SHUTDOWN is set, shutting down
+ WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 14856, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+t][MessageChannel] Error: (msgtype=0x2C0105,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 9824, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 9824, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+romium/src/base/process_util_win.cc, line 188
+[Parent 9824, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1525245312063	geckodriver	INFO	geckodriver 0.20.0
+1525245312087	geckodriver	INFO	Listening on 127.0.0.1:55165
+1525245315164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.zYx1phryVmNB"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525245323743	Marionette	INFO	Listening on port 55197
+1525245323883	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ange notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+m/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[Parent 19644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20236, [Parent 19644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525245461661	geckodriver	INFO	geckodriver 0.20.0
+1525245461675	geckodriver	INFO	Listening on 127.0.0.1:55452
+1525245464732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.qpXe5Rq3iK0x"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code afJavaScript warning: htJavaScript error: https://cee2.iteye.com/xgytzbsdbw?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code afJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after r[Parent 21292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w[Parent 21372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i[Parent 21372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to stat
+1525245523125	geckodriver::marionette	ERROR	Failed to stop browser process
+pe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21288, Chrome[Parent 21384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525245514742	geckodriver::marionette	ERROR	Failed to stop browser process
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525245499880	geckodriver::marionette	ERROR	Failed to stop browser process
+1525245501198	geckodriver	INFO	geckodriver 0.20.0
+1525245501214	geckodriver	INFO	Listening on 127.0.0.1:55967
+1525245504192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.PImJQV4VScS4"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525245507105	Marionette	INFO	Listening on port 55980
+1525245507412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80054291, line 61: SyntaxError: unexpected token: identifier
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80054291, line 793: SyntaxError: missing ) after argument list
+JavaScript error: https://csdnimg.cn/release/phoenix/template/js/detail-ce4d9dd9d5.min.js, line 2: ReferenceError: articleId is not defined
+JavaScript error: https://csdnimg.cn/release/phoenix/template/js/detail-ce4d9dd9d5.min.js, line 1: TypeError: this.initPos is not a function
+[Child 14812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525245518606	geckodriver::marionette	ERROR	Failed to stop browser process
+1525245657600	geckodriver	INFO	geckodriver 0.20.0
+1525245657614	geckodriver	INFO	Listening on 127.0.0.1:56187
+1525245660827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.hT3lcz0WiNQb"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525245705090	Marionette	INFO	Listening on port 56268
+1525245705297	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/share/share_api.js?v=226108fe.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/view/share_view.js?v=3ae6026d.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/trans/logger.js?v=d16ec0e3.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/bJavaScript error: https://cee1.iteye.com/tps/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/view/share_view.js?v=3ae6026d.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/trans/logger.js?v=d16ec0e3.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/base/tangram.js?v=37768233.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/share/api_base.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/view/view_base.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/component/partners.js?v=911c4302.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load css timeout : //csdnimg.cn/static/api/css/share_style0_16.css?v=6aba13f0.css
+JavaScript error: https://cee2.iteye.com/esskzgt?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjokqkj&sdu=kompgrln&gwp=0C5JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript wJavaScript error: https://cee2.iteye.com/yphkxfhe?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjrnnjp&sv=jgj&glv=j&wsu=kololnoskrpno&hasv=kkkjjl&gul=j&sfv=koksgqoj&sdu=kompgrln&gwp=0C54J87BC&dul=l&fhf=DCyKr&dqw=k&gdl=o&svv=koksgllpp&surw=l&gf=m&slv=KkgKk&98=cz83w&swt=1, line 58: TypeError: window.getComputedStyle(...) is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposurJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/share/share_api.js?v=226108fe.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/view/share_view.js?v=3ae6026d.js
+JavaScript error: httJavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/trans/loggJavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/component/partners.js?v=911c4302.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load css timeout : //csdnimg.cn/static/api/css/share_style0_16.css?v=6aba13f0.css
+JavaScript error: https://cee2.iteye.com/wggdz?khl=loj&zlJavaScript warniJavaScript error: https://cee2.iteye.com/ynawqjy?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjoppmr&sv=jgj&dul=l&sdu=kompgrln&gdl=o&glv=j&dqw=k&svv=koksgmlsk&surw=l&wsu=kololnpjkskpo&sfv=koksgqoj&fhf=DCyKr&gul=j&gf=m&hasv=kkkjjl&gwp=0C54J87BC&slv=KkgKk&s5=ivtcsJavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/component/partners.js?v=911c4302.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: l[Parent 12796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11764, Chrome_ChildThread] WARNING: pipe error: 109: file[Parent 21008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/[Parent 12796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MeJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jque1525246127701	geckodriver::marionette	ERROR	Failed to stop browser process
+deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Child 22688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22688, Chrome_ChildThread] WARNING: pipe err
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525246130127	geckodriver::marionette	ERROR	Failed to stop browser process
+d/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525246138412	geckodriver::marionette	ERROR	Failed to stop browser process
+hrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.ccIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error1525246130884	geckodriver::marionette	ERROR	Failed to stop browser process
+ure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525246129544	geckodriver::marionette	ERROR	Failed to stop browser process
+rome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/1525246128455	geckodriver::marionette	ERROR	Failed to stop browser process
+process
+ecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525246128807	geckodriver::marionette	ERROR	Failed to stop browser process
+h
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525246102786	Marionette	INFO	Listening on port 59179
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525246104273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80054291, line 61: SyntaxError: unexpected token: identifier
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80054291, line 818: SyntaxError: missing ) after argument list
+JavaScript error: https://csdnimg.cn/release/phoenix/template/js/detail-ce4d9dd9d5.min.js, line 2: ReferenceError: articleId is not defined
+JavaScript error: https://csdnimg.cn/release/phoenix/template/js/detail-ce4d9dd9d5.min.js, line 1: TypeError: this.initPos is not a function
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Child 16920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16920, Chrome_ChildThre[Parent 22996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7956, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525246173242	geckodriver::marionette	ERROR	Failed to stop browser process
+1525247418834	geckodriver	INFO	geckodriver 0.20.0
+1525247418851	geckodriver	INFO	Listening on 127.0.0.1:59978
+1525247422030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.UpsBxoUvjWUv"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Child 14372, Chrome_ChildThread]1525247494232	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[[Parent 8904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525247497184	geckodriver::marionette	ERROR	Failed to stop browser process
+ 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14104, Chrome_ChildTh1525247494459	geckodriver::marionette	ERROR	Failed to stop browser process
+Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525247496417	geckodriver::marionette	ERROR	Failed to stop browser process
+, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1525247495961	geckodriver::marionette	ERROR	Failed to stop browser process
+6, Chro1525247491827	addons.1525247495085	geckodriver::marionette	ERROR	Failed to stop browser process
+7491872	addons.productaddons	WARN	Fai
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525247494774	geckodriver::marionette	ERROR	Failed to stop browser process
+o_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 8820, 1525247496063	geckodriver::marionette	ERROR	Failed to stop browser process
+ium/src/chrome/common/ipc_channel_win.cc, line 513
+[Parent 8820, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1525247497761	geckodriver::marionette	ERROR	Failed to stop browser process
+cv, messages will be lost
+
+[Parent 13228, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525247492152	geckodriver::marionette	ERROR	Failed to stop browser process
+1525247492325	geckodriver	INFO	geckodriver 0.20.0
+1525247492339	geckodriver	INFO	Listening on 127.0.0.1:61359
+1525247495392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.Q2bJ2aBlo3ON"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525247500513	Marionette	INFO	Listening on port 61372
+1525247501289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Child 7780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7780, Chr[Child 6728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6728, Chrome_ChildThrea[Parent 21276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525247507043	geckodriver::marionette	ERROR	Failed to stop browser process
+1525261452276	geckodriver	INFO	geckodriver 0.20.0
+1525261452285	geckodriver	INFO	Listening on 127.0.0.1:60082
+1525261455523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.bB6fy1Jc65qU"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18724, Gecko_IOThread] WARNING: pipe error: 109[Parent 18832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525261475192	Marionette	WARN	TLS certificaUnable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas iJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after retJavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/share/sharJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposurJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80054291, line 61: SyntaxError: unexpected token: identifier
+JavaScript error: JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/component/partners.js?v=911c4302.js
+JavaScript error: https://csdnimg.cnJavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cee2.iteye.com/kizcrbgk?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOX[Parent 19128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525261635518	geckodriver::marionette	ERROR	Failed to stop browser process
+ file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu[Child 11452, Chrome_ChildThread] WARNING: pJavaScript error: https://cee2.iteye.com/ikqw?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjmmlom&glv=j&sfv=koksgqoj&gf=m&dul=l&sv=jgj&slv=KkgKk&surw=l&svv=koksglrqm&gul=j&sdu=kompgrln&wsu=kololpkpkqpnq&gwp=0C54J87BC&gdl=o&hasv=kkkjjl&dqw=k&fhf=DCyKr&swt=1, line 58: 1525261635719	geckodriver::marionette	ERROR	Faile[Child 11732, Chrome_ChildThread] WARNING: pipe error: 109: filIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 17636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13220, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525261655233	geckodriver::marionette	ERROR	Failed to stop browser process
+rom C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525261620474	Marionette	INFO	Listening on port 61549
+1525261620982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cee2.iteye.com/pqskwmeqcs?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjmmrsl&fhf=DCyKr&sv=jgj&dqw=k&gf=m&hasv=kkkjjl&wsu=kololpkplrlkl&gul=j&sdu=kompgrln&dul=l&glv=j&surw=l&gdl=o&slv=KkgKk&sfv=koksgqoj&gwp=0C54J87BC&svv=koksgmrlm&swt=1, line 58: TypeError: window.getComputedStyle(...) is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Child 15204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525261664167	geckodriver::marionette	ERROR	Failed to stop browser process
+1525262939350	geckodriver	INFO	geckodriver 0.20.0
+1525262939358	geckodriver	INFO	Listening on 127.0.0.1:62401
+1525262942548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.Rp4JIbu4rhat"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525262983577	Marionette	INFO	Listening on port 62487
+1525262984272	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript waJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicatJavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/trans/logger.js?v=d16ec0e3.js
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://blog.csdn.neJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/share/share_api.js?v=226108fe.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/view/share_view.js?v=3ae6026d.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/trans/logger.js?v=d16ec0e3.js
+JavaScript error: https://cee2.iteye.com/twacil?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjmmrsl&gf=m&sfv=koksgqoj&dqw=k&svv=koksgmqsn&slv=KkgKk&gul=j&gdl=o&surw=l&hasv=kkkjjl&dul=l&sdu=kompgrln&sv=jgj&wsu=kololpmjsllko&glv=j&gwp=0C54J87BC&fhf=DCyKr&t6=uqynm&310=wki3h&swt=1, line 58: TypeError: window.getComputedStyle(...) is null
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/component/partners.js?v=911c4302.js
+JavaScript error: https://csdnimg.cn/static/api/js/sharJavaScript warning:JavaScript error: https://cee2.iteye.com/gqqs?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjoppmr&wsu=kololpmknkrsr&gwp=0C54J87BC&svv=koksgmlsk&sdu=kompgrln&slv=KkgKk&gf=m&fhf=DCyKr&dqw=kJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80054291, line 61: SyntaxError: unexpected token: identiJavaScript error: https://csdnimg.cn/static/api/jsJavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/share/share_api.js?v=226108fe.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/view/share_view.js?v=3ae6026d.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/trans/logger.js?v=d16ec0e3.js
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/trans/logger.js?v=d16ec0e3.js
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80056626, line 61: SyntaxError: unexpected token: identifier
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80056626, line 790: SyntaxError: missing ) after argument list
+JavaScript error: https://csdnimg.cn/release/phoenix/template/js/detail-ce4d9dd9d5.min.js, line 2: ReferenceError: articleId is not defined
+JavaScript error: https://csdnimg.cn/release/phoenix/template/js/detail-ce4d9dd9d5.min.js, line 1: TypeError: this.initPos is not a function
+[Parent 17192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10528, Chrome[Parent 17192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525263495155	geckodriver::marionette	ERROR	Failed to stop browser process
+nnel_win.cc, line 346
+[Child 14824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6384, Gecko_IOThread] WARNING: pJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80054291, line 61: SyntaxError: unexpected token: identifier
+JavaScript error: https://blog.csdn.net/qq_2752791525263465797	geckodriver::marionette	ERROR	Failed to stop browser process
+t list
+JavaScript error: https://csdnimg.cn/release/phoenix/template/js/detailJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 20864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1516, Chrome_ChildThread] WARNING: pipe e[Parent 7096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1561525263489230	geckodriver::marionette	ERROR	Failed to stop browser proce1525263489852	geckodriver::mar1525263491649	geckodriver::marionette	ERROR	Failed to stop browser process
+ handler returned false (indicating failure)
+
+[Child 11008, CJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Child 2772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2772, Chrome_Ch[Child 11920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 11920, Chrome_ChildThread][Child 7356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Child 8824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5936, Chro1525263490283	geckodriver::marionette	ERROR	Failed to stop browser process
+ium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium1525263490854	geckodriver::
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525263494536	geckodriver::marionette	ERROR	Failed to stop browser process
+1525266077701	geckodriver	INFO	geckodriver 0.20.0
+1525266077714	geckodriver	INFO	Listening on 127.0.0.1:51289
+1525266080637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.lmbkFlSYNgy3"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525266083075	Marionette	INFO	Listening on port 51341
+[Parent 8160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu[ild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[Parent 8160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16228, Chrome_ChildThread] WARNING: pipe error: 1*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525266103515	geckodriver	INFO	geckodriver 0.20.0
+1525266103535	geckodriver	INFO	Listening on 127.0.0.1:51371
+1525266106680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\Local\\Temp\\rust_mozprofile.hAV0KAjv5VaC"
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/1525266158490	Marionette	INFO	Listening on port 51459
+1525266158976	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after retuJavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/trans/logJavaScript error: httpJavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //cJavaScript erroJavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/share/share_api.js?v=226108fe.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/view/share_view.js?v=3ae6026d.js
+JavaScriptJavaScript error: https://cee2.iteye.com/velpjg?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjmmloJavaScript error: https://cee2.iteye.com/cdcsllpt?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjokqkj&gf=m&gul=j&sfv=koksgqoj&slv=KkgKk&svv=koksgmqoj&fhf=DCyKr&surw=l&gwp=0C54J87BC&dqw=k&wsu=kololppkpomjl&sdu=kompgrln&hasv=kkkjjl&sv=jgj&gdl=o&dul=l&glv=j&i5=qzm4&h7=sqrqe&010=8o09&g1=0jz5&swt=1, line 58: TypeError: window.getComputedStyle(...) is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.JavaScript warning: https://csdJavaScript warning: https:JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable codJavaScript warning: https:JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/share/share_api.js?v=226108fe.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/view/share_view.js?v=3ae6026d.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=8986059JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load jsJavaScript error: https://cee2.iteye.com/utsgsbynu?khl=loj&zlg=loj&glJavaScript error: https://cee2.iteye.com/qvgysyji?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjoppmr&gul=j&wsu=kololppmnlrjp&dul=l&gdl=o&surw=l&gwp=0C54J87BC&sv=jgj&sfv=koksgqoj&hasv=kkkjjl&svv=koksgmlsk&dqw=k&sdu=kompgrln&slv=KkgKk&glv=j&gf=m&fhf=DCyJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cee2.iteye.com/ijhm?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjlnkro&gwp=0C54J87BC&svv=koksgllnl&sfv=koksgqoj&gul=j&gdl=o&gf=m&fhf=DCyKr&dul=l&sv=jgj&sdu=kompgrln&slv=KkgKk&glv=j&wsu=kololppnmljpr&surw=l&hasv=kkkjjl&dqw=k&w8=4r27n&u4=naw23&swt=1, line 58: TypeError: window.getComputedStyle(...) is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/trans/logger.js?v=d16ec0e3.js
+JavaScript error: https://cee2.iteye.com/txznafkyil?khl=loj&zlg=loj&gl=dmmqolrl&owx=Tcc-bLmtLlyLlyNX_SLJObPZLJZQcLly..JlqolqspkLlyMacUOXQLlyPQcMUXbLlyrjjoppmr&sdu=kompgrln&sv=jgj&hasv=kkpjmr&gf=m&dqw=k&surw=l&slv=KkgKk&sfv=koksgqoj&glv=j&dul=l&fhf=DCyKr&svv=koksgmlsk&gul=j&wsu=kololppnsqlsk&gdl=o&gwp=0C54J87BC&f7=1cpd&59=h2zl&m6=7ozrr&swt=1, line 58: TypeError: window.getComputedStyle(...) is null
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/component/partners.js?v=911c4302.js
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load css timeout : //csdnimg.cn/static/api/css/share_style0_16.css?v=6aba13f0.css
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80054291, line 61: SyntaxError: unexpected tokeJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://csdnimg.cn/static/api/js/share.js?v=89860594, line 1: Error: load js timeout : //csdnimg.cn/static/api/js/trans/logger.js?v=d16ec0e3.js
+JavaScript error: https://cee1.iteye.com/tps/noeJavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adCJavaScript warning: https://csdnimg.cn/public/common/libs/JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicateJavaScript error: https://cpro.baidustatic.com/cpro/ui/noeJavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Parent 18764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14924, Chrome_ChildThread] WARNING:1525266739310	geckodriver::marionette	ERROR	Failed to stop browser process
+c_channel_win.cc, line 346
+[Child 14924, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525266736958	geckodriver::marionette	ERROR	Failed to stop browser process
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 21440, Gecko_IOThread] WARNING: pipe err1525266727188	geckodriver::marionette	ERROR	Failed to stop browser process
+_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525266733965	geckodriver::marionette	ERROR	Failed to stop browser process
+!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+[Parent 21464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] [Parent 15232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pt warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1692, ChrJavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://shared.ydstatic.com/js/yatdk/3.0.0/stream.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+[Child 12176, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0094,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+[Child 12176, Chrome_ChildThread] WARNING: pipe er[Parent 9860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525266737732	geckodriver::marionette	ERROR	Failed to stop browser process
+/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1525266724796	geckodriver::marionette	ERROR	Failed to stop browser process
+c/ipc/chromium/src/chrome/common/ip1525266725130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\TIANHU~1\\AppData\\
+###!!! [Child][MessageChannel::SendAndWaiUnable to read VR Path Registry from C:\Users1525266736958	geckodriver::marionette	ERROR	Failed to stop browser process
+ Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tianhuijie\AppData\Local\openvr\openvrpaths.vrpath
+1525266731243	Marionette	INFO	Listening on port 56446
+1525266731330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80054291, line 61: SyntaxError: unexpected token: identifier
+JavaScript error: https://blog.csdn.net/qq_27527961/article/details/80054291, line 818: SyntaxError: missing ) after argument list
+JavaScript error: https://csdnimg.cn/release/phoenix/template/js/detail-ce4d9dd9d5.min.js, line 2: ReferenceError: articleId is not defined
+JavaScript error: https://csdnimg.cn/release/phoenix/template/js/detail-ce4d9dd9d5.min.js, line 1: TypeError: this.initPos is not a function
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main-1.0.5.js, line 556: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.0/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+[Child 4192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4192, Chrome_ChildThread] WARNING: pi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 9892, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
