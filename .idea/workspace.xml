@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1748df0-a75b-45c8-887d-d9ba7b8ddc50" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/state.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymath.py" beforeDir="false" afterPath="$PROJECT_DIR$/mymath.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mymath.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mymath.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mymath.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="316">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -82,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="template.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="323">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -138,7 +135,6 @@
         <option value="$PROJECT_DIR$/factoryModel.py" />
         <option value="$PROJECT_DIR$/prototype.py" />
         <option value="$PROJECT_DIR$/adapter.py" />
-        <option value="$PROJECT_DIR$/mymath.py" />
         <option value="$PROJECT_DIR$/facade.py" />
         <option value="$PROJECT_DIR$/flyweight.py" />
         <option value="$PROJECT_DIR$/mvc.py" />
@@ -152,14 +148,14 @@
         <option value="$PROJECT_DIR$/state.py" />
         <option value="$PROJECT_DIR$/strategy.py" />
         <option value="$PROJECT_DIR$/template.py" />
+        <option value="$PROJECT_DIR$/mymath.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -196,8 +192,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.strategy">
-    <configuration name="autoViews" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mymath">
+    <configuration name="mymath" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="jeckdesign" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +205,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autoViews.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mymath.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,19 +284,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.autoViews" />
       <item itemvalue="Python.observer" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.state" />
       <item itemvalue="Python.strategy" />
+      <item itemvalue="Python.mymath" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mymath" />
         <item itemvalue="Python.strategy" />
         <item itemvalue="Python.state" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.observer" />
-        <item itemvalue="Python.autoViews" />
       </list>
     </recent_temporary>
   </component>
@@ -318,15 +314,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.083984375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16818774" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info active="true" anchor="bottom" x="-15" y="506" width="1524" height="449" id="Run" order="10" visible="true" weight="0.32596686" />
+      <window_info active="true" anchor="bottom" x="-15" y="506" width="1524" height="449" id="Run" order="10" visible="true" weight="0.32960895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -649,13 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mymath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/observer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -693,8 +682,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="323">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mymath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>

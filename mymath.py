@@ -18,7 +18,7 @@ def memoize(fn):
             known[args] = fn(*args)
         return known[args]
 
-    return memoize
+    return memoizer
 
 
 @memoize
